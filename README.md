@@ -13,7 +13,7 @@ and its Research business for marketting purpose.
 
 Role for the Software Projects is Open Source Project Leader.
 
-and Role for the Research projects is Open Source OS DEVELOPER.
+and Role for the Research projects is Open Source OS DEVELOPER  and   to  Do  Marketting..
 
-And Designation for Wilmix projects is Open Source PROJECT LEAD - WILMIX PROJECTS
+And Designation for Wilmix projects is Open Source PROJECT MANAGER - WILMIX PROJECTS
 
