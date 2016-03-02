@@ -3,7 +3,7 @@
 
 This Tittle "Wilmix Projects" is meant for Project Tracking website for doing Software and Research Projects
 
-in JAVA, .Net , and C/C++ started by Wilmix jemin j.
+in .Net , and C/C++ started by Wilmix jemin j.
 
 He will be an Individual Contributer in doing the Projects.
 
