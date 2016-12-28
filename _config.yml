@@ -1,0 +1,8 @@
+title: Wilmixprojects
+description: This  Tittle "Wilmix Projects"   is  meant   for   Project  Tracking    website   for  doing   Software   and  Research  Projects  in   JAVA,  .Net  ,  and  C/C++
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
